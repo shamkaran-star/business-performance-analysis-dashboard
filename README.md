@@ -99,3 +99,10 @@ Business_Performance_Analysis_Project_Complete/
 
 ---
 **Project type:** Self-directed beginner portfolio project · **Dataset:** Synthetic · **Period:** Jan–Oct 2026 · **Currency:** INR
+## Dashboard Screenshots
+
+### Page 1 — Business Performance Overview
+![Business Performance Dashboard](Screenshots/Dashboard_Overview.png)
+
+### Page 2 — Detailed Business Analysis
+![Detailed Analysis Dashboard](Screenshots/Dashboard_Detailed_Analysis.png)
