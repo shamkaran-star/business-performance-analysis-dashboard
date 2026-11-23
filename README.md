@@ -102,7 +102,7 @@ Business_Performance_Analysis_Project_Complete/
 ## Dashboard Screenshots
 
 ### Page 1 — Business Performance Overview
-![Business Performance Dashboard](Screenshots/Dashboard_Overview.png)
+![Business Performance Dashboard](Screenshots/Dashboard_Overview.png.png)
 
 ### Page 2 — Detailed Business Analysis
-![Detailed Analysis Dashboard](Screenshots/Dashboard_Detailed_Analysis.png)
+![Detailed Analysis Dashboard](Screenshots/Dashboard_Detailed_Analysis.png.png)
